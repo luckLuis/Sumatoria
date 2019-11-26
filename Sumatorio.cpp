@@ -19,7 +19,7 @@ if (n >= 0){
     cin >> m;
     }
 }
- cout << "La suma entre el rango [" << n << "," << m << "] es: " << sumatoria(m, n);
+ cout << "La suma entre el intervalo [" << n << "," << m << "] es: " << sumatoria(m, n);
  
 	return 0;
 }
